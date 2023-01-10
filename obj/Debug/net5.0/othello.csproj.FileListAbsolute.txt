@@ -1,0 +1,16 @@
+D:\Documents\vscode\othello\bin\Debug\net5.0\othello.exe
+D:\Documents\vscode\othello\bin\Debug\net5.0\othello.deps.json
+D:\Documents\vscode\othello\bin\Debug\net5.0\othello.runtimeconfig.json
+D:\Documents\vscode\othello\bin\Debug\net5.0\othello.runtimeconfig.dev.json
+D:\Documents\vscode\othello\bin\Debug\net5.0\othello.dll
+D:\Documents\vscode\othello\bin\Debug\net5.0\othello.pdb
+D:\Documents\vscode\othello\obj\Debug\net5.0\othello.csproj.AssemblyReference.cache
+D:\Documents\vscode\othello\obj\Debug\net5.0\othello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\vscode\othello\obj\Debug\net5.0\othello.AssemblyInfoInputs.cache
+D:\Documents\vscode\othello\obj\Debug\net5.0\othello.AssemblyInfo.cs
+D:\Documents\vscode\othello\obj\Debug\net5.0\othello.csproj.CoreCompileInputs.cache
+D:\Documents\vscode\othello\obj\Debug\net5.0\othello.dll
+D:\Documents\vscode\othello\obj\Debug\net5.0\refint\othello.dll
+D:\Documents\vscode\othello\obj\Debug\net5.0\othello.pdb
+D:\Documents\vscode\othello\obj\Debug\net5.0\othello.genruntimeconfig.cache
+D:\Documents\vscode\othello\obj\Debug\net5.0\ref\othello.dll
